@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProjectManagerApp</string>
+
+    <string-array name="task_status_array">
+        <item>Planificado</item>
+        <item>En ejecución</item>
+        <item>Realizado</item>
+    </string-array>
+</resources>

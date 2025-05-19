@@ -1,0 +1,15 @@
+<resources>
+    <!-- Tema principal basado en MaterialComponents -->
+    <style name="Theme.ProjectManagerApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Colores primarios/secundarios -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <!-- Fondo y superficie -->
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <!-- Error, shapes, tipografías, etc. -->
+        <item name="colorError">@color/error</item>
+    </style>
+</resources>
